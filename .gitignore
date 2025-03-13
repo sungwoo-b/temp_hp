@@ -1,0 +1,12 @@
+*
+!src/
+!src/**
+
+!detector_train.py
+!demo.ipynb
+!classifier_train.py
+!detect_clip_classify.py
+!prep_classifier_training_data.py
+
+src/__pycache__/
+*.pyc
